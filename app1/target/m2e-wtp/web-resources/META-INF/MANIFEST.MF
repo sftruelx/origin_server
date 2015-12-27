@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: AppFuse Light Spring MVC/Security Module
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.app1
+Build-Jdk: 1.7.0_45
+Built-By: Larry
+Created-By: Maven Integration for Eclipse
+
